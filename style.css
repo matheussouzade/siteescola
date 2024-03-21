@@ -1,2 +1,3 @@
 .cabeçalho{background-color: black;color: #d80000;display: flex;justify-content: space-around;}
-.imagem-logo:{width: 20%}
+.imagem-logo{width: 20%}
+.cabeçalho-lista-item{display:inline block; margin: 0 16px; font-size: 20px;}
