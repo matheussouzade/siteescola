@@ -34,3 +34,21 @@ padding: 24px 0;}
     background-color: #2d9e42;
     color:#2d9e42;
     text-align: center;
+}
+
+.contato {
+    background-color: #3a6852;
+
+}
+.contato_titulo{
+    color:#2d9e42; display: flex; justify-content: space-around; align-items: conter;
+}
+
+.contato_texto {color:blue;
+}
+.contato_email {
+    padding: 1em;
+    border: 1px solid;
+    border-radius: 24px;
+    width: 90%;
+}
