@@ -52,3 +52,35 @@ padding: 24px 0;}
     border-radius: 24px;
     width: 90%;
 }
+
+.tópicos {
+    background:#20c23e;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.tópicos_título {
+    color:rgb(52, 155, 57);
+    font-weight: 300;
+    margin-battom: 1em;
+}
+
+.tópicos_lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tópicos_item {
+    margin: 2em 0.5em;
+    list-style: none;
+}
+
+.tópicos_link {
+    color:#07a10f;
+    padding: 1em;
+    background-color:rgb(197, 158, 28);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+}
